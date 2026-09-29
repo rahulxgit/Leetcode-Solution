@@ -1,0 +1,37 @@
+{
+  "darkMode": false,
+  "friend_identities_v2": [
+    {
+      "accounts": [
+        {
+          "handle": "s4gkomkmsm",
+          "lastFetched": 1790697804367,
+          "platform": "leetcode",
+          "status": "active"
+        }
+      ],
+      "addedAt": 1790697804367,
+      "aliases": [],
+      "displayName": "s4gkomkmsm",
+      "id": "8e28ee22-e7b7-402b-b2b4-d59ec653c101",
+      "updatedAt": 1790697804367
+    }
+  ],
+  "own_codechef_handle": "rahulxcodechef",
+  "own_codeforces_handle": "rahulxcodeforces",
+  "own_username": "s4gkomkmsm",
+  "sync_history": [
+    {
+      "problems": [
+        "Minimum Window Substring",
+        "Minimum Size Subarray Sum",
+        "Employees Earning More Than Their Managers",
+        "Second Highest Salary",
+        "Concatenate Non-Zero Digits and Multiply by Sum I"
+      ],
+      "problemsSynced": 112,
+      "status": "success",
+      "timestamp": 1790698902700
+    }
+  ]
+}
