@@ -1,0 +1,2051 @@
+[
+  {
+    "id": "2154211919",
+    "title": "Minimum Window Substring",
+    "titleSlug": "minimum-window-substring",
+    "timestamp": 1790443782000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "2149390587",
+    "title": "Minimum Size Subarray Sum",
+    "titleSlug": "minimum-size-subarray-sum",
+    "timestamp": 1790057424000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "2147508623",
+    "title": "Reverse Degree of a String",
+    "titleSlug": "reverse-degree-of-a-string",
+    "timestamp": 1789894467000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "2146449964",
+    "title": "Circle and Rectangle Overlapping",
+    "titleSlug": "circle-and-rectangle-overlapping",
+    "timestamp": 1789805706000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "2137731790",
+    "title": "Customer Placing the Largest Number of Orders",
+    "titleSlug": "customer-placing-the-largest-number-of-orders",
+    "timestamp": 1789058922000,
+    "lang": "mysql",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "2137377783",
+    "title": "Employees Earning More Than Their Managers",
+    "titleSlug": "employees-earning-more-than-their-managers",
+    "timestamp": 1789036397000,
+    "lang": "mysql",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "2136480044",
+    "title": "Second Highest Salary",
+    "titleSlug": "second-highest-salary",
+    "timestamp": 1788966412000,
+    "lang": "mysql",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "2136479330",
+    "title": "Second Highest Salary",
+    "titleSlug": "second-highest-salary",
+    "timestamp": 1788966375000,
+    "lang": "mysql",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "2123972141",
+    "title": "Minimum Bishop Moves to Reach Target",
+    "titleSlug": "minimum-bishop-moves-to-reach-target",
+    "timestamp": 1788015472000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "2061046074",
+    "title": "Find All Anagrams in a String",
+    "titleSlug": "find-all-anagrams-in-a-string",
+    "timestamp": 1783546558000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "2059210540",
+    "title": "Concatenate Non-Zero Digits and Multiply by Sum I",
+    "titleSlug": "concatenate-non-zero-digits-and-multiply-by-sum-i",
+    "timestamp": 1783423585000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "2056406146",
+    "title": "Divisible Game",
+    "titleSlug": "divisible-game",
+    "timestamp": 1783220901000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "2056375865",
+    "title": "Subsequence After One Replacement",
+    "titleSlug": "subsequence-after-one-replacement",
+    "timestamp": 1783219889000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "2056355485",
+    "title": "Sum of Integers with Maximum Digit Range",
+    "titleSlug": "sum-of-integers-with-maximum-digit-range",
+    "timestamp": 1783219208000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "2055944833",
+    "title": "Minimum Operations to Transform Binary String",
+    "titleSlug": "minimum-operations-to-transform-binary-string",
+    "timestamp": 1783179104000,
+    "lang": "python3",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "2055863151",
+    "title": "Count Distinct Ways to Form Target from Two Strings",
+    "titleSlug": "count-distinct-ways-to-form-target-from-two-strings",
+    "timestamp": 1783176885000,
+    "lang": "python3",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "2055809589",
+    "title": "Maximum Valid Pair Sum",
+    "titleSlug": "maximum-valid-pair-sum",
+    "timestamp": 1783175940000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "2055794993",
+    "title": "Unique Middle Element",
+    "titleSlug": "unique-middle-element",
+    "timestamp": 1783175659000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "2049344152",
+    "title": "Count Subarrays With Majority Element I",
+    "titleSlug": "count-subarrays-with-majority-element-i",
+    "timestamp": 1782678817000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "2049343968",
+    "title": "Count Subarrays With Majority Element I",
+    "titleSlug": "count-subarrays-with-majority-element-i",
+    "timestamp": 1782678794000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "2049340039",
+    "title": "Count Subarrays With Majority Element I",
+    "titleSlug": "count-subarrays-with-majority-element-i",
+    "timestamp": 1782678302000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "2049334571",
+    "title": "Count Subarrays With Majority Element I",
+    "titleSlug": "count-subarrays-with-majority-element-i",
+    "timestamp": 1782677645000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "2046090529",
+    "title": "Count Subarrays With Majority Element I",
+    "titleSlug": "count-subarrays-with-majority-element-i",
+    "timestamp": 1782410321000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "2044649841",
+    "title": "Parsing A Boolean Expression",
+    "titleSlug": "parsing-a-boolean-expression",
+    "timestamp": 1782307768000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "2043514551",
+    "title": "Remove All Occurrences of a Substring",
+    "titleSlug": "remove-all-occurrences-of-a-substring",
+    "timestamp": 1782226161000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "2043368332",
+    "title": "Minimum Number of Swaps to Make the String Balanced",
+    "titleSlug": "minimum-number-of-swaps-to-make-the-string-balanced",
+    "timestamp": 1782217195000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "2043333148",
+    "title": "Minimum Add to Make Parentheses Valid",
+    "titleSlug": "minimum-add-to-make-parentheses-valid",
+    "timestamp": 1782214802000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "2042371233",
+    "title": "Maximum Number of Balloons",
+    "titleSlug": "maximum-number-of-balloons",
+    "timestamp": 1782143765000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "2042087189",
+    "title": "Maximum Number of Balloons",
+    "titleSlug": "maximum-number-of-balloons",
+    "timestamp": 1782126981000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "2041252682",
+    "title": "132 Pattern",
+    "titleSlug": "132-pattern",
+    "timestamp": 1782062958000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "2041097049",
+    "title": "Maximum Ice Cream Bars",
+    "titleSlug": "maximum-ice-cream-bars",
+    "timestamp": 1782053374000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "2040940561",
+    "title": "Fibonacci Number",
+    "titleSlug": "fibonacci-number",
+    "timestamp": 1782042704000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "2040934152",
+    "title": "Check if All A's Appears Before All B's",
+    "titleSlug": "check-if-all-as-appears-before-all-bs",
+    "timestamp": 1782042228000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "2040931166",
+    "title": "Minimum Deletions to Make String Balanced",
+    "titleSlug": "minimum-deletions-to-make-string-balanced",
+    "timestamp": 1782042019000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "2040929742",
+    "title": "Minimum Deletions to Make String Balanced",
+    "titleSlug": "minimum-deletions-to-make-string-balanced",
+    "timestamp": 1782041919000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "2040226731",
+    "title": "Reverse Substrings Between Each Pair of Parentheses",
+    "titleSlug": "reverse-substrings-between-each-pair-of-parentheses",
+    "timestamp": 1781983398000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "2039955209",
+    "title": "Finish Time of Tasks I",
+    "titleSlug": "finish-time-of-tasks-i",
+    "timestamp": 1781968606000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "2039934824",
+    "title": "Minimum Lights to Illuminate a Road",
+    "titleSlug": "minimum-lights-to-illuminate-a-road",
+    "timestamp": 1781968062000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "2039918208",
+    "title": "Create Grid With Exactly One Path",
+    "titleSlug": "create-grid-with-exactly-one-path",
+    "timestamp": 1781967641000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "2039640259",
+    "title": "Maximum Score From Removing Substrings",
+    "titleSlug": "maximum-score-from-removing-substrings",
+    "timestamp": 1781950579000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "2038849224",
+    "title": "Reverse String II",
+    "titleSlug": "reverse-string-ii",
+    "timestamp": 1781880338000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "2038841502",
+    "title": "Reverse Words in a String III",
+    "titleSlug": "reverse-words-in-a-string-iii",
+    "timestamp": 1781879838000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "2038664973",
+    "title": "Find the Highest Altitude",
+    "titleSlug": "find-the-highest-altitude",
+    "timestamp": 1781867575000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "2037691209",
+    "title": "Angle Between Hands of a Clock",
+    "titleSlug": "angle-between-hands-of-a-clock",
+    "timestamp": 1781794215000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "2036295623",
+    "title": "Minimum Remove to Make Valid Parentheses",
+    "titleSlug": "minimum-remove-to-make-valid-parentheses",
+    "timestamp": 1781695062000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "2036071272",
+    "title": "Process String with Special Operations II",
+    "titleSlug": "process-string-with-special-operations-ii",
+    "timestamp": 1781681917000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "2035586795",
+    "title": "Process String with Special Operations I",
+    "titleSlug": "process-string-with-special-operations-i",
+    "timestamp": 1781637007000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "2035423500",
+    "title": "Remove K Digits",
+    "titleSlug": "remove-k-digits",
+    "timestamp": 1781628512000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "2035423214",
+    "title": "Remove K Digits",
+    "titleSlug": "remove-k-digits",
+    "timestamp": 1781628499000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "2035174737",
+    "title": "Add Digits",
+    "titleSlug": "add-digits",
+    "timestamp": 1781614564000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "2033988428",
+    "title": "Build an Array With Stack Operations",
+    "titleSlug": "build-an-array-with-stack-operations",
+    "timestamp": 1781530646000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "2033920866",
+    "title": "Delete the Middle Node of a Linked List",
+    "titleSlug": "delete-the-middle-node-of-a-linked-list",
+    "timestamp": 1781526119000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "2033896385",
+    "title": "Asteroid Collision",
+    "titleSlug": "asteroid-collision",
+    "timestamp": 1781524444000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "2032317376",
+    "title": "Frequency Balance Subarray",
+    "titleSlug": "frequency-balance-subarray",
+    "timestamp": 1781406300000,
+    "lang": "javascript",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "2032275241",
+    "title": "Check Good Integer",
+    "titleSlug": "check-good-integer",
+    "timestamp": 1781404568000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "2032227572",
+    "title": "Maximum Twin Sum of a Linked List",
+    "titleSlug": "maximum-twin-sum-of-a-linked-list",
+    "timestamp": 1781397092000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "2032041736",
+    "title": "Weighted Word Mapping",
+    "titleSlug": "weighted-word-mapping",
+    "timestamp": 1781372953000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "2030761753",
+    "title": "Sum of Subarray Minimums",
+    "titleSlug": "sum-of-subarray-minimums",
+    "timestamp": 1781264378000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "2030760590",
+    "title": "Sum of Subarray Minimums",
+    "titleSlug": "sum-of-subarray-minimums",
+    "timestamp": 1781264290000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "2030739790",
+    "title": "Evaluate Reverse Polish Notation",
+    "titleSlug": "evaluate-reverse-polish-notation",
+    "timestamp": 1781262740000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "2030739461",
+    "title": "Evaluate Reverse Polish Notation",
+    "titleSlug": "evaluate-reverse-polish-notation",
+    "timestamp": 1781262716000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "2030724976",
+    "title": "Evaluate Reverse Polish Notation",
+    "titleSlug": "evaluate-reverse-polish-notation",
+    "timestamp": 1781261652000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "2029998851",
+    "title": "Basic Calculator",
+    "titleSlug": "basic-calculator",
+    "timestamp": 1781197776000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "2029655808",
+    "title": "Simplify Path",
+    "titleSlug": "simplify-path",
+    "timestamp": 1781175970000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "2029620081",
+    "title": "Validate Stack Sequences",
+    "titleSlug": "validate-stack-sequences",
+    "timestamp": 1781173632000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "2029616211",
+    "title": "Validate Stack Sequences",
+    "titleSlug": "validate-stack-sequences",
+    "timestamp": 1781173407000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "2028577165",
+    "title": "Removing Stars From a String",
+    "titleSlug": "removing-stars-from-a-string",
+    "timestamp": 1781091452000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "2028518896",
+    "title": "Remove All Adjacent Duplicates in String II",
+    "titleSlug": "remove-all-adjacent-duplicates-in-string-ii",
+    "timestamp": 1781087379000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "2027852060",
+    "title": "Product Sales Analysis I",
+    "titleSlug": "product-sales-analysis-i",
+    "timestamp": 1781028599000,
+    "lang": "mysql",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "2026381376",
+    "title": "Replace Employee ID With The Unique Identifier",
+    "titleSlug": "replace-employee-id-with-the-unique-identifier",
+    "timestamp": 1780923354000,
+    "lang": "mysql",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "2025158203",
+    "title": "Remove All Adjacent Duplicates In String",
+    "titleSlug": "remove-all-adjacent-duplicates-in-string",
+    "timestamp": 1780820308000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "2025133808",
+    "title": "Daily Temperatures",
+    "titleSlug": "daily-temperatures",
+    "timestamp": 1780818391000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "2025130732",
+    "title": "Daily Temperatures",
+    "titleSlug": "daily-temperatures",
+    "timestamp": 1780818159000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "2025081366",
+    "title": "Online Stock Span",
+    "titleSlug": "online-stock-span",
+    "timestamp": 1780814664000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "2024436107",
+    "title": "Minimum Energy to Maintain Brightness",
+    "titleSlug": "minimum-energy-to-maintain-brightness",
+    "timestamp": 1780759172000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "2024342941",
+    "title": "Exactly One Consecutive Set Bits Pair",
+    "titleSlug": "exactly-one-consecutive-set-bits-pair",
+    "timestamp": 1780756891000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "2024151894",
+    "title": "Left and Right Sum Differences",
+    "titleSlug": "left-and-right-sum-differences",
+    "timestamp": 1780743934000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "2023498852",
+    "title": "Implement Queue using Stacks",
+    "titleSlug": "implement-queue-using-stacks",
+    "timestamp": 1780679193000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "2023497277",
+    "title": "Implement Stack using Queues",
+    "titleSlug": "implement-stack-using-queues",
+    "timestamp": 1780679096000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "2022474248",
+    "title": "Invalid Tweets",
+    "titleSlug": "invalid-tweets",
+    "timestamp": 1780590202000,
+    "lang": "mysql",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "2021410367",
+    "title": "Earliest Finish Time for Land and Water Rides I",
+    "titleSlug": "earliest-finish-time-for-land-and-water-rides-i",
+    "timestamp": 1780502081000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "2021408993",
+    "title": "Article Views I",
+    "titleSlug": "article-views-i",
+    "timestamp": 1780501993000,
+    "lang": "mysql",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "2021407531",
+    "title": "Earliest Finish Time for Land and Water Rides II",
+    "titleSlug": "earliest-finish-time-for-land-and-water-rides-ii",
+    "timestamp": 1780501903000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "2020547809",
+    "title": "Plus One",
+    "titleSlug": "plus-one",
+    "timestamp": 1780426679000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "2020134404",
+    "title": "Perfect Number",
+    "titleSlug": "perfect-number",
+    "timestamp": 1780400894000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "2020132639",
+    "title": "Self Dividing Numbers",
+    "titleSlug": "self-dividing-numbers",
+    "timestamp": 1780400767000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "2020112786",
+    "title": "Perfect Number",
+    "titleSlug": "perfect-number",
+    "timestamp": 1780399318000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "2020112050",
+    "title": "Perfect Number",
+    "titleSlug": "perfect-number",
+    "timestamp": 1780399262000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "2020073894",
+    "title": "Count Primes",
+    "titleSlug": "count-primes",
+    "timestamp": 1780396540000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "2020070031",
+    "title": "Count Primes",
+    "titleSlug": "count-primes",
+    "timestamp": 1780396280000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "2019359363",
+    "title": "Concatenation of Consecutive Binary Numbers",
+    "titleSlug": "concatenation-of-consecutive-binary-numbers",
+    "timestamp": 1780333837000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "2019282201",
+    "title": "Check If a String Contains All Binary Codes of Size K",
+    "titleSlug": "check-if-a-string-contains-all-binary-codes-of-size-k",
+    "timestamp": 1780329542000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "2019032908",
+    "title": "Minimum Cost of Buying Candies With Discount",
+    "titleSlug": "minimum-cost-of-buying-candies-with-discount",
+    "timestamp": 1780311793000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "2019011038",
+    "title": "Construct the Minimum Bitwise Array II",
+    "titleSlug": "construct-the-minimum-bitwise-array-ii",
+    "timestamp": 1780310174000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "2019010493",
+    "title": "Construct the Minimum Bitwise Array II",
+    "titleSlug": "construct-the-minimum-bitwise-array-ii",
+    "timestamp": 1780310139000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "2018934777",
+    "title": "Construct the Minimum Bitwise Array I",
+    "titleSlug": "construct-the-minimum-bitwise-array-i",
+    "timestamp": 1780305011000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "2018294601",
+    "title": "Big Countries",
+    "titleSlug": "big-countries",
+    "timestamp": 1780242069000,
+    "lang": "mysql",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "2018291678",
+    "title": "Recyclable and Low Fat Products",
+    "titleSlug": "recyclable-and-low-fat-products",
+    "timestamp": 1780241832000,
+    "lang": "mysql",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "2017118970",
+    "title": "Bitwise XOR of All Pairings",
+    "titleSlug": "bitwise-xor-of-all-pairings",
+    "timestamp": 1780133616000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "2017072772",
+    "title": "Neighboring Bitwise XOR",
+    "titleSlug": "neighboring-bitwise-xor",
+    "timestamp": 1780129511000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "2017053399",
+    "title": "Neighboring Bitwise XOR",
+    "titleSlug": "neighboring-bitwise-xor",
+    "timestamp": 1780127738000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "2017051545",
+    "title": "Neighboring Bitwise XOR",
+    "titleSlug": "neighboring-bitwise-xor",
+    "timestamp": 1780127565000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "2016354432",
+    "title": "Minimize XOR",
+    "titleSlug": "minimize-xor",
+    "timestamp": 1780052445000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "2016354220",
+    "title": "Minimize XOR",
+    "titleSlug": "minimize-xor",
+    "timestamp": 1780052429000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "2015722122",
+    "title": "Remove Element",
+    "titleSlug": "remove-element",
+    "timestamp": 1779989026000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "2014342610",
+    "title": "Shortest Subarray With OR at Least K II",
+    "titleSlug": "shortest-subarray-with-or-at-least-k-ii",
+    "timestamp": 1779868330000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "2014213889",
+    "title": "Minimum Array End",
+    "titleSlug": "minimum-array-end",
+    "timestamp": 1779860009000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "2013567840",
+    "title": "Maximum XOR for Each Query",
+    "titleSlug": "maximum-xor-for-each-query",
+    "timestamp": 1779795771000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "2013410375",
+    "title": "Find the Longest Substring Containing Vowels in Even Counts",
+    "titleSlug": "find-the-longest-substring-containing-vowels-in-even-counts",
+    "timestamp": 1779784055000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "2013381358",
+    "title": "Largest Combination With Bitwise AND Greater Than Zero",
+    "titleSlug": "largest-combination-with-bitwise-and-greater-than-zero",
+    "timestamp": 1779781731000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "2013246883",
+    "title": "XOR Queries of a Subarray",
+    "titleSlug": "xor-queries-of-a-subarray",
+    "timestamp": 1779772984000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "2012656201",
+    "title": "Valid Parentheses",
+    "titleSlug": "valid-parentheses",
+    "timestamp": 1779716934000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "2011728306",
+    "title": "Two Sum",
+    "titleSlug": "two-sum",
+    "timestamp": 1779627381000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "2010875534",
+    "title": "Minimum Operations to Make Array Modulo Alternating I",
+    "titleSlug": "minimum-operations-to-make-array-modulo-alternating-i",
+    "timestamp": 1779549030000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "2010840761",
+    "title": "Minimum Swaps to Move Zeros to End",
+    "titleSlug": "minimum-swaps-to-move-zeros-to-end",
+    "timestamp": 1779548014000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "2010581157",
+    "title": "Check if Array Is Sorted and Rotated",
+    "titleSlug": "check-if-array-is-sorted-and-rotated",
+    "timestamp": 1779526321000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "2009769379",
+    "title": "Count Triplets That Can Form Two Arrays of Equal XOR",
+    "titleSlug": "count-triplets-that-can-form-two-arrays-of-equal-xor",
+    "timestamp": 1779440803000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "2009020149",
+    "title": "Number of Steps to Reduce a Number in Binary Representation to One",
+    "titleSlug": "number-of-steps-to-reduce-a-number-in-binary-representation-to-one",
+    "timestamp": 1779366305000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "2008953655",
+    "title": "Score After Flipping Matrix",
+    "titleSlug": "score-after-flipping-matrix",
+    "timestamp": 1779360452000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "2008941520",
+    "title": "Score After Flipping Matrix",
+    "titleSlug": "score-after-flipping-matrix",
+    "timestamp": 1779359426000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "2008933222",
+    "title": "Score After Flipping Matrix",
+    "titleSlug": "score-after-flipping-matrix",
+    "timestamp": 1779358752000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "2008929609",
+    "title": "Score After Flipping Matrix",
+    "titleSlug": "score-after-flipping-matrix",
+    "timestamp": 1779358462000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "2007186386",
+    "title": "Minimum Number of Operations to Make Array XOR Equal to K",
+    "titleSlug": "minimum-number-of-operations-to-make-array-xor-equal-to-k",
+    "timestamp": 1779185643000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "2007177120",
+    "title": "Minimum Number of Operations to Make Array XOR Equal to K",
+    "titleSlug": "minimum-number-of-operations-to-make-array-xor-equal-to-k",
+    "timestamp": 1779184930000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "2006357351",
+    "title": "Bitwise AND of Numbers Range",
+    "titleSlug": "bitwise-and-of-numbers-range",
+    "timestamp": 1779106889000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "2006329985",
+    "title": "Maximum Length of a Concatenated String with Unique Characters",
+    "titleSlug": "maximum-length-of-a-concatenated-string-with-unique-characters",
+    "timestamp": 1779104442000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "2006298756",
+    "title": "Maximum Length of a Concatenated String with Unique Characters",
+    "titleSlug": "maximum-length-of-a-concatenated-string-with-unique-characters",
+    "timestamp": 1779101635000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "2005739054",
+    "title": "Divide Two Integers",
+    "titleSlug": "divide-two-integers",
+    "timestamp": 1779037906000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "2005736990",
+    "title": "Power of Two",
+    "titleSlug": "power-of-two",
+    "timestamp": 1779037758000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "2004702243",
+    "title": "Single Number III",
+    "titleSlug": "single-number-iii",
+    "timestamp": 1778945020000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "2004526543",
+    "title": "Single Number",
+    "titleSlug": "single-number",
+    "timestamp": 1778929518000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "2004512571",
+    "title": "Maximum Number That Sum of the Prices Is Less Than or Equal to K",
+    "titleSlug": "maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k",
+    "timestamp": 1778928279000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "2001248288",
+    "title": "Minimum One Bit Operations to Make Integers Zero",
+    "titleSlug": "minimum-one-bit-operations-to-make-integers-zero",
+    "timestamp": 1778581312000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "2000436489",
+    "title": "XOR Operation in an Array",
+    "titleSlug": "xor-operation-in-an-array",
+    "timestamp": 1778496442000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "2000423446",
+    "title": "Find The Original Array of Prefix Xor",
+    "titleSlug": "find-the-original-array-of-prefix-xor",
+    "timestamp": 1778495244000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "2000420288",
+    "title": "Find The Original Array of Prefix Xor",
+    "titleSlug": "find-the-original-array-of-prefix-xor",
+    "timestamp": 1778494964000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "1998098170",
+    "title": "Counting Bits",
+    "titleSlug": "counting-bits",
+    "timestamp": 1778241004000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "1998069764",
+    "title": "Counting Bits",
+    "titleSlug": "counting-bits",
+    "timestamp": 1778237595000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "1998065588",
+    "title": "Number of 1 Bits",
+    "titleSlug": "number-of-1-bits",
+    "timestamp": 1778237128000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "1998026996",
+    "title": "Single Number II",
+    "titleSlug": "single-number-ii",
+    "timestamp": 1778232991000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "1998019523",
+    "title": "Single Number II",
+    "titleSlug": "single-number-ii",
+    "timestamp": 1778232197000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "1997672949",
+    "title": "Minimum Flips to Make a OR b Equal to c",
+    "titleSlug": "minimum-flips-to-make-a-or-b-equal-to-c",
+    "timestamp": 1778183272000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "1992534680",
+    "title": "Word Break",
+    "titleSlug": "word-break",
+    "timestamp": 1777636008000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "1991041723",
+    "title": "N-Queens",
+    "titleSlug": "n-queens",
+    "timestamp": 1777469215000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "1991016274",
+    "title": "Word Search",
+    "titleSlug": "word-search",
+    "timestamp": 1777466663000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "1990911729",
+    "title": "Combination Sum III",
+    "titleSlug": "combination-sum-iii",
+    "timestamp": 1777455556000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "1990910188",
+    "title": "Combination Sum III",
+    "titleSlug": "combination-sum-iii",
+    "timestamp": 1777455423000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "1990891561",
+    "title": "Combination Sum III",
+    "titleSlug": "combination-sum-iii",
+    "timestamp": 1777453701000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "1990074257",
+    "title": "Combination Sum",
+    "titleSlug": "combination-sum",
+    "timestamp": 1777366505000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "1989322914",
+    "title": "Number of Subsequences That Satisfy the Given Sum Condition",
+    "titleSlug": "number-of-subsequences-that-satisfy-the-given-sum-condition",
+    "timestamp": 1777286734000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "1989202630",
+    "title": "Subsets II",
+    "titleSlug": "subsets-ii",
+    "timestamp": 1777274426000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "1988620941",
+    "title": "Subsets",
+    "titleSlug": "subsets",
+    "timestamp": 1777207275000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "1987655979",
+    "title": "Generate Binary Strings Without Adjacent Zeros",
+    "titleSlug": "generate-binary-strings-without-adjacent-zeros",
+    "timestamp": 1777114428000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "1987635849",
+    "title": "Generate Parentheses",
+    "titleSlug": "generate-parentheses",
+    "timestamp": 1777112371000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "1986971866",
+    "title": "Generate Parentheses",
+    "titleSlug": "generate-parentheses",
+    "timestamp": 1777033377000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "1986153019",
+    "title": "Sort an Array",
+    "titleSlug": "sort-an-array",
+    "timestamp": 1776948431000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "1983318671",
+    "title": "Two Furthest Houses With Different Colors",
+    "titleSlug": "two-furthest-houses-with-different-colors",
+    "timestamp": 1776668178000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "1982694095",
+    "title": "Two Furthest Houses With Different Colors",
+    "titleSlug": "two-furthest-houses-with-different-colors",
+    "timestamp": 1776605718000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "1982687728",
+    "title": "Maximum Distance Between a Pair of Values",
+    "titleSlug": "maximum-distance-between-a-pair-of-values",
+    "timestamp": 1776605180000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "1982685843",
+    "title": "Maximum Distance Between a Pair of Values",
+    "titleSlug": "maximum-distance-between-a-pair-of-values",
+    "timestamp": 1776605023000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "1981564629",
+    "title": "Mirror Distance of an Integer",
+    "titleSlug": "mirror-distance-of-an-integer",
+    "timestamp": 1776500074000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "1981005473",
+    "title": "Minimum Absolute Distance Between Mirror Pairs",
+    "titleSlug": "minimum-absolute-distance-between-mirror-pairs",
+    "timestamp": 1776436746000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "1980916380",
+    "title": "Count Good Numbers",
+    "titleSlug": "count-good-numbers",
+    "timestamp": 1776429423000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "1980915482",
+    "title": "Count Good Numbers",
+    "titleSlug": "count-good-numbers",
+    "timestamp": 1776429336000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "1980882288",
+    "title": "Super Pow",
+    "titleSlug": "super-pow",
+    "timestamp": 1776425850000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "1980860341",
+    "title": "Pow(x, n)",
+    "titleSlug": "powx-n",
+    "timestamp": 1776423549000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "1979822401",
+    "title": "Reverse Linked List",
+    "titleSlug": "reverse-linked-list",
+    "timestamp": 1776321819000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "1978049035",
+    "title": "Intersection of Two Linked Lists",
+    "titleSlug": "intersection-of-two-linked-lists",
+    "timestamp": 1776152288000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "1977294314",
+    "title": "Odd Even Linked List",
+    "titleSlug": "odd-even-linked-list",
+    "timestamp": 1776082902000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "1977135605",
+    "title": "Minimum Distance to the Target Element",
+    "titleSlug": "minimum-distance-to-the-target-element",
+    "timestamp": 1776069691000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "1976451377",
+    "title": "Sort List",
+    "titleSlug": "sort-list",
+    "timestamp": 1776002468000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "1976345366",
+    "title": "Delete the Middle Node of a Linked List",
+    "titleSlug": "delete-the-middle-node-of-a-linked-list",
+    "timestamp": 1775993442000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "1976335411",
+    "title": "Remove Nth Node From End of List",
+    "titleSlug": "remove-nth-node-from-end-of-list",
+    "timestamp": 1775992585000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "1976309457",
+    "title": "Linked List Cycle II",
+    "titleSlug": "linked-list-cycle-ii",
+    "timestamp": 1775990383000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "1976300300",
+    "title": "Linked List Cycle",
+    "titleSlug": "linked-list-cycle",
+    "timestamp": 1775989594000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "1976200410",
+    "title": "Middle of the Linked List",
+    "titleSlug": "middle-of-the-linked-list",
+    "timestamp": 1775980739000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "1975545388",
+    "title": "Minimum Operations to Transform Array into Alternating Prime",
+    "titleSlug": "minimum-operations-to-transform-array-into-alternating-prime",
+    "timestamp": 1775922686000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "1975536270",
+    "title": "Count Digit Appearances",
+    "titleSlug": "count-digit-appearances",
+    "timestamp": 1775922299000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "1975533303",
+    "title": "Traffic Signal Color",
+    "titleSlug": "traffic-signal-color",
+    "timestamp": 1775922175000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "1974319769",
+    "title": "Minimum Distance Between Three Equal Elements I",
+    "titleSlug": "minimum-distance-between-three-equal-elements-i",
+    "timestamp": 1775812290000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "1972490084",
+    "title": "Find Customer Referee",
+    "titleSlug": "find-customer-referee",
+    "timestamp": 1775645816000,
+    "lang": "mysql",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "1972449861",
+    "title": "Delete Node in a Linked List",
+    "titleSlug": "delete-node-in-a-linked-list",
+    "timestamp": 1775642468000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "1967653249",
+    "title": "Roman to Integer",
+    "titleSlug": "roman-to-integer",
+    "timestamp": 1775215303000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "1967639497",
+    "title": "Maximum Nesting Depth of the Parentheses",
+    "titleSlug": "maximum-nesting-depth-of-the-parentheses",
+    "timestamp": 1775214090000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "1967637458",
+    "title": "Maximum Nesting Depth of the Parentheses",
+    "titleSlug": "maximum-nesting-depth-of-the-parentheses",
+    "timestamp": 1775213913000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "1967543814",
+    "title": "Valid Anagram",
+    "titleSlug": "valid-anagram",
+    "timestamp": 1775205981000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "1967543549",
+    "title": "Valid Anagram",
+    "titleSlug": "valid-anagram",
+    "timestamp": 1775205956000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "1967542388",
+    "title": "Valid Anagram",
+    "titleSlug": "valid-anagram",
+    "timestamp": 1775205849000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "1967522221",
+    "title": "Rotate String",
+    "titleSlug": "rotate-string",
+    "timestamp": 1775203963000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "1966899616",
+    "title": "Isomorphic Strings",
+    "titleSlug": "isomorphic-strings",
+    "timestamp": 1775142101000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "1966801103",
+    "title": "Longest Common Prefix",
+    "titleSlug": "longest-common-prefix",
+    "timestamp": 1775134755000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "1966800969",
+    "title": "Longest Common Prefix",
+    "titleSlug": "longest-common-prefix",
+    "timestamp": 1775134744000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "1966756467",
+    "title": "Largest Odd Number in String",
+    "titleSlug": "largest-odd-number-in-string",
+    "timestamp": 1775130540000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "1966710175",
+    "title": "Reverse Words in a String",
+    "titleSlug": "reverse-words-in-a-string",
+    "timestamp": 1775126048000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "1966694092",
+    "title": "Remove Outermost Parentheses",
+    "titleSlug": "remove-outermost-parentheses",
+    "timestamp": 1775124652000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "1966693466",
+    "title": "Remove Outermost Parentheses",
+    "titleSlug": "remove-outermost-parentheses",
+    "timestamp": 1775124602000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "1965736288",
+    "title": "Find Peak Element",
+    "titleSlug": "find-peak-element",
+    "timestamp": 1775039150000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "1965717579",
+    "title": "Search a 2D Matrix II",
+    "titleSlug": "search-a-2d-matrix-ii",
+    "timestamp": 1775037645000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "1965716223",
+    "title": "Search a 2D Matrix",
+    "titleSlug": "search-a-2d-matrix",
+    "timestamp": 1775037536000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "1965701490",
+    "title": "Row With Maximum Ones",
+    "titleSlug": "row-with-maximum-ones",
+    "timestamp": 1775036351000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "1965684577",
+    "title": "Row With Maximum Ones",
+    "titleSlug": "row-with-maximum-ones",
+    "timestamp": 1775034959000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "1965649106",
+    "title": "Median of Two Sorted Arrays",
+    "titleSlug": "median-of-two-sorted-arrays",
+    "timestamp": 1775031952000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "1964929902",
+    "title": "Capacity To Ship Packages Within D Days",
+    "titleSlug": "capacity-to-ship-packages-within-d-days",
+    "timestamp": 1774967073000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "1964817603",
+    "title": "Minimum Number of Days to Make m Bouquets",
+    "titleSlug": "minimum-number-of-days-to-make-m-bouquets",
+    "timestamp": 1774959263000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "1964062336",
+    "title": "Check if Strings Can be Made Equal With Operations II",
+    "titleSlug": "check-if-strings-can-be-made-equal-with-operations-ii",
+    "timestamp": 1774889994000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "1963871391",
+    "title": "Kth Missing Positive Number",
+    "titleSlug": "kth-missing-positive-number",
+    "timestamp": 1774878514000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "1961888560",
+    "title": "Direction Assignments with Exactly K Visible People",
+    "titleSlug": "direction-assignments-with-exactly-k-visible-people",
+    "timestamp": 1774710385000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "1961854311",
+    "title": "Minimum Absolute Difference Between Two Values",
+    "titleSlug": "minimum-absolute-difference-between-two-values",
+    "timestamp": 1774709366000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "1961795731",
+    "title": "Find the Smallest Divisor Given a Threshold",
+    "titleSlug": "find-the-smallest-divisor-given-a-threshold",
+    "timestamp": 1774706784000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "1961794098",
+    "title": "Find the Smallest Divisor Given a Threshold",
+    "titleSlug": "find-the-smallest-divisor-given-a-threshold",
+    "timestamp": 1774706644000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "1961707017",
+    "title": "Koko Eating Bananas",
+    "titleSlug": "koko-eating-bananas",
+    "timestamp": 1774698990000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "1960890643",
+    "title": "Matrix Similarity After Cyclic Shifts",
+    "titleSlug": "matrix-similarity-after-cyclic-shifts",
+    "timestamp": 1774616615000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "1958803243",
+    "title": "Pow(x, n)",
+    "titleSlug": "powx-n",
+    "timestamp": 1774439442000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "1958798013",
+    "title": "Pow(x, n)",
+    "titleSlug": "powx-n",
+    "timestamp": 1774438988000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "1958782797",
+    "title": "Sqrt(x)",
+    "titleSlug": "sqrtx",
+    "timestamp": 1774437669000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "1958692710",
+    "title": "Search in Rotated Sorted Array II",
+    "titleSlug": "search-in-rotated-sorted-array-ii",
+    "timestamp": 1774430914000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "1958671790",
+    "title": "Search in Rotated Sorted Array",
+    "titleSlug": "search-in-rotated-sorted-array",
+    "timestamp": 1774429470000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "1958653842",
+    "title": "Find Minimum in Rotated Sorted Array",
+    "titleSlug": "find-minimum-in-rotated-sorted-array",
+    "timestamp": 1774428184000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "1958653698",
+    "title": "Find Minimum in Rotated Sorted Array II",
+    "titleSlug": "find-minimum-in-rotated-sorted-array-ii",
+    "timestamp": 1774428173000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "1957678459",
+    "title": "Rotate Array",
+    "titleSlug": "rotate-array",
+    "timestamp": 1774349898000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "1957653167",
+    "title": "Rotate Array",
+    "titleSlug": "rotate-array",
+    "timestamp": 1774347802000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "1957652993",
+    "title": "Rotate Array",
+    "titleSlug": "rotate-array",
+    "timestamp": 1774347789000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "1956585325",
+    "title": "Find First and Last Position of Element in Sorted Array",
+    "titleSlug": "find-first-and-last-position-of-element-in-sorted-array",
+    "timestamp": 1774261010000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "1954633221",
+    "title": "Search Insert Position",
+    "titleSlug": "search-insert-position",
+    "timestamp": 1774086417000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "1954576253",
+    "title": "Binary Search",
+    "titleSlug": "binary-search",
+    "timestamp": 1774080630000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "1949537126",
+    "title": "Palindrome Number",
+    "titleSlug": "palindrome-number",
+    "timestamp": 1773614995000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "1942669843",
+    "title": "Subarray Sum Equals K",
+    "titleSlug": "subarray-sum-equals-k",
+    "timestamp": 1773046454000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "1941810706",
+    "title": "Unique Paths",
+    "titleSlug": "unique-paths",
+    "timestamp": 1772962757000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "1940703049",
+    "title": "Missing Number",
+    "titleSlug": "missing-number",
+    "timestamp": 1772880258000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "1940699215",
+    "title": "Sort Colors",
+    "titleSlug": "sort-colors",
+    "timestamp": 1772879931000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "1940191170",
+    "title": "Majority Element",
+    "titleSlug": "majority-element",
+    "timestamp": 1772824318000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "1940159229",
+    "title": "Majority Element",
+    "titleSlug": "majority-element",
+    "timestamp": 1772821915000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "1940157551",
+    "title": "Majority Element",
+    "titleSlug": "majority-element",
+    "timestamp": 1772821808000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "1934578788",
+    "title": "Valid Palindrome",
+    "titleSlug": "valid-palindrome",
+    "timestamp": 1772356256000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "1934494174",
+    "title": "Reverse String",
+    "titleSlug": "reverse-string",
+    "timestamp": 1772348966000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "1873258381",
+    "title": "Find Maximum Value in a Constrained Sequence",
+    "titleSlug": "find-maximum-value-in-a-constrained-sequence",
+    "timestamp": 1767453796000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "1873192590",
+    "title": "Minimum Subarray Length With Distinct Sum At Least K",
+    "titleSlug": "minimum-subarray-length-with-distinct-sum-at-least-k",
+    "timestamp": 1767451912000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "1873191365",
+    "title": "Minimum Subarray Length With Distinct Sum At Least K",
+    "titleSlug": "minimum-subarray-length-with-distinct-sum-at-least-k",
+    "timestamp": 1767451873000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "1873159280",
+    "title": "Reverse String Prefix",
+    "titleSlug": "reverse-string-prefix",
+    "timestamp": 1767450948000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "1857156134",
+    "title": "Sort Colors",
+    "titleSlug": "sort-colors",
+    "timestamp": 1765891348000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "1846825821",
+    "title": "Valid Anagram",
+    "titleSlug": "valid-anagram",
+    "timestamp": 1764857710000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "1836909201",
+    "title": "Lexicographically Smallest Negated Permutation that Sums to Target",
+    "titleSlug": "lexicographically-smallest-negated-permutation-that-sums-to-target",
+    "timestamp": 1763826112000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "1836836811",
+    "title": "Minimum Number of Flips to Reverse Binary String",
+    "titleSlug": "minimum-number-of-flips-to-reverse-binary-string",
+    "timestamp": 1763823128000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "1836700760",
+    "title": "Valid Palindrome",
+    "titleSlug": "valid-palindrome",
+    "timestamp": 1763812567000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "1836699274",
+    "title": "Valid Palindrome",
+    "titleSlug": "valid-palindrome",
+    "timestamp": 1763812412000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "1798484393",
+    "title": "Design Exam Scores Tracker",
+    "titleSlug": "design-exam-scores-tracker",
+    "timestamp": 1760198297000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "1798411218",
+    "title": "Longest Fibonacci Subarray",
+    "titleSlug": "longest-fibonacci-subarray",
+    "timestamp": 1760195551000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "1798371592",
+    "title": "Equal Score Substrings",
+    "titleSlug": "equal-score-substrings",
+    "timestamp": 1760194400000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "1796351333",
+    "title": "Palindrome Partitioning",
+    "titleSlug": "palindrome-partitioning",
+    "timestamp": 1760015312000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "1793082399",
+    "title": "Combination Sum II",
+    "titleSlug": "combination-sum-ii",
+    "timestamp": 1759751856000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "1791716299",
+    "title": "Longest Subsequence With Non-Zero Bitwise XOR",
+    "titleSlug": "longest-subsequence-with-non-zero-bitwise-xor",
+    "timestamp": 1759635066000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "1791663753",
+    "title": "Compute Alternating Sum",
+    "titleSlug": "compute-alternating-sum",
+    "timestamp": 1759633079000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "title": "A Wonderful Contest",
+    "titleSlug": "2222/A",
+    "timestamp": 1777129701000,
+    "statusDisplay": "Accepted",
+    "lang": "Java 8",
+    "id": "372490709",
+    "platform": "codeforces",
+    "difficulty": "Easy",
+    "rating": 800
+  },
+  {
+    "title": "Merging the Sets",
+    "titleSlug": "2146/B",
+    "timestamp": 1758468300000,
+    "statusDisplay": "WRONG_ANSWER",
+    "lang": "Java 8",
+    "id": "339749928",
+    "platform": "codeforces",
+    "difficulty": "Easy",
+    "rating": 1100
+  },
+  {
+    "title": "Equal Occurrences",
+    "titleSlug": "2146/A",
+    "timestamp": 1758466975000,
+    "statusDisplay": "WRONG_ANSWER",
+    "lang": "Java 8",
+    "id": "339737164",
+    "platform": "codeforces",
+    "difficulty": "Easy",
+    "rating": 800
+  }
+]
