@@ -4,6 +4,8 @@ A complete history of all accepted submissions synced by L'Amigo.
 
 | Date | Platform | Problem | Language |
 | :--- | :--- | :--- | :--- |
+| 2026-09-30 | Leetcode | Maximum Number of Vowels in a Substring of Given Length | java |
+| 2026-09-30 | Leetcode | Contains Duplicate II | java |
 | 2026-09-26 | Leetcode | Minimum Window Substring | java |
 | 2026-09-22 | Leetcode | Minimum Size Subarray Sum | java |
 | 2026-09-20 | Leetcode | Reverse Degree of a String | java |
