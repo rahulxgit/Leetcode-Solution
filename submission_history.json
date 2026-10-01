@@ -1,5 +1,13 @@
 [
   {
+    "id": "2157913289",
+    "lang": "java",
+    "statusDisplay": "Accepted",
+    "timestamp": 1790752630000,
+    "title": "Contains Duplicate II",
+    "titleSlug": "contains-duplicate-ii"
+  },
+  {
     "id": "2154211919",
     "lang": "java",
     "statusDisplay": "Accepted",
@@ -2047,5 +2055,13 @@
     "timestamp": 1758466975000,
     "title": "Equal Occurrences",
     "titleSlug": "2146/A"
+  },
+  {
+    "id": "2158098163",
+    "title": "Maximum Number of Vowels in a Substring of Given Length",
+    "titleSlug": "maximum-number-of-vowels-in-a-substring-of-given-length",
+    "timestamp": 1790767297000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
   }
 ]
