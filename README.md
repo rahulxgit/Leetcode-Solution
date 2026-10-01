@@ -3,7 +3,7 @@
 Showcasing my Data Structures, Algorithms, and Competitive Programming solutions synced automatically by [L'Amigo](https://github.com/FTS18/l-amigo).
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LeetCode-199_Solved-FFA116?style=for-the-badge&logo=leetcode" alt="LeetCode" />
+  <img src="https://img.shields.io/badge/LeetCode-201_Solved-FFA116?style=for-the-badge&logo=leetcode" alt="LeetCode" />
   <img src="https://img.shields.io/badge/Codeforces-3_Solved-1F8ACB?style=for-the-badge&logo=codeforces" alt="Codeforces" />
   <img src="https://img.shields.io/badge/CSES-0_Solved-000000?style=for-the-badge&logo=code" alt="CSES" />
   <img src="https://img.shields.io/badge/GeeksforGeeks-0_Solved-2F8D46?style=for-the-badge&logo=geeksforgeeks" alt="GeeksforGeeks" />
@@ -13,11 +13,11 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 
 | Platform | Solved Count | Solutions Tracked |
 | :--- | :---: | :--- |
-| **LeetCode** | 199 | [ `/LeetCode`](./LeetCode) |
+| **LeetCode** | 201 | [ `/LeetCode`](./LeetCode) |
 | **Codeforces** | 3 | [ `/Codeforces`](./Codeforces) |
 | **CSES Problemset** | 0 | [ `/CSES`](./CSES) |
 | **GeeksforGeeks** | 0 | [ `/GeeksForGeeks`](./GeeksForGeeks) |
-| **Total Solved** | **202** | [ `submission_history.json`](./submission_history.json) |
+| **Total Solved** | **204** | [ `submission_history.json`](./submission_history.json) |
 
 ## Codeforces Rating Breakdown
 
@@ -39,22 +39,22 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 
 | Difficulty | Solved | Progress Bar |
 | :--- | :---: | :--- |
-| **Easy** | 77 | `[████░░░░░░]` (38.7%) |
-| **Medium** | 113 | `[██████░░░░]` (56.8%) |
+| **Easy** | 78 | `[████░░░░░░]` (38.8%) |
+| **Medium** | 114 | `[██████░░░░]` (56.7%) |
 | **Hard** | 9 | `[░░░░░░░░░░]` (4.5%) |
 
 ## Top LeetCode Topics
 
 | Topic | Solved |
 | :--- | :--- |
-| Array | 97 |
-| String | 53 |
+| Array | 98 |
+| String | 54 |
 | Math | 41 |
 | Bit Manipulation | 38 |
 | Stack | 28 |
 | Binary Search | 27 |
 | Two Pointers | 27 |
-| Hash Table | 24 |
+| Hash Table | 25 |
 | Simulation | 16 |
 | Greedy | 15 |
 
@@ -65,7 +65,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | :--- | :--- | :--- | :--- |
 | LeetCode | [132 Pattern](https://leetcode.com/problems/132-pattern/) | java | [View Solution](./LeetCode/Unknown/132-pattern) |
 | Codeforces | [A Wonderful Contest](https://codeforces.com/contest/2222/problem/A) | Java 8 | [View Solution](./Codeforces/2222/A) |
-| LeetCode | [Add Digits](https://leetcode.com/problems/add-digits/) | java | [View Solution](./LeetCode/Unknown/add-digits) |
+| LeetCode | [Add Digits](https://leetcode.com/problems/add-digits/) | java | [View Solution](./LeetCode/Easy/258-add-digits) |
 | LeetCode | [Angle Between Hands of a Clock](https://leetcode.com/problems/angle-between-hands-of-a-clock/) | java | [View Solution](./LeetCode/Medium/1344-angle-between-hands-of-a-clock) |
 | LeetCode | [Article Views I](https://leetcode.com/problems/article-views-i/) | mysql | [View Solution](./LeetCode/Easy/1148-article-views-i) |
 | LeetCode | [Asteroid Collision](https://leetcode.com/problems/asteroid-collision/) | java | [View Solution](./LeetCode/Medium/735-asteroid-collision) |
@@ -90,6 +90,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | LeetCode | [Concatenation of Consecutive Binary Numbers](https://leetcode.com/problems/concatenation-of-consecutive-binary-numbers/) | java | [View Solution](./LeetCode/Unknown/concatenation-of-consecutive-binary-numbers) |
 | LeetCode | [Construct the Minimum Bitwise Array I](https://leetcode.com/problems/construct-the-minimum-bitwise-array-i/) | java | [View Solution](./LeetCode/Unknown/construct-the-minimum-bitwise-array-i) |
 | LeetCode | [Construct the Minimum Bitwise Array II](https://leetcode.com/problems/construct-the-minimum-bitwise-array-ii/) | java | [View Solution](./LeetCode/Medium/3315-construct-the-minimum-bitwise-array-ii) |
+| LeetCode | [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/) | java | [View Solution](./LeetCode/Unknown/contains-duplicate-ii) |
 | LeetCode | [Count Digit Appearances](https://leetcode.com/problems/count-digit-appearances/) | java | [View Solution](./LeetCode/Unknown/count-digit-appearances) |
 | LeetCode | [Count Distinct Ways to Form Target from Two Strings](https://leetcode.com/problems/count-distinct-ways-to-form-target-from-two-strings/) | python3 | [View Solution](./LeetCode/Hard/3981-count-distinct-ways-to-form-target-from-two-strings) |
 | LeetCode | [Count Good Numbers](https://leetcode.com/problems/count-good-numbers/) | java | [View Solution](./LeetCode/Medium/1922-count-good-numbers) |
@@ -97,7 +98,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | LeetCode | [Count Subarrays With Majority Element I](https://leetcode.com/problems/count-subarrays-with-majority-element-i/) | java | [View Solution](./LeetCode/Medium/3737-count-subarrays-with-majority-element-i) |
 | LeetCode | [Count Triplets That Can Form Two Arrays of Equal XOR](https://leetcode.com/problems/count-triplets-that-can-form-two-arrays-of-equal-xor/) | java | [View Solution](./LeetCode/Medium/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | LeetCode | [Counting Bits](https://leetcode.com/problems/counting-bits/) | java | [View Solution](./LeetCode/Easy/338-counting-bits) |
-| LeetCode | [Create Grid With Exactly One Path](https://leetcode.com/problems/create-grid-with-exactly-one-path/) | java | [View Solution](./LeetCode/Unknown/create-grid-with-exactly-one-path) |
+| LeetCode | [Create Grid With Exactly One Path](https://leetcode.com/problems/create-grid-with-exactly-one-path/) | java | [View Solution](./LeetCode/Easy/3963-create-grid-with-exactly-one-path) |
 | LeetCode | [Customer Placing the Largest Number of Orders](https://leetcode.com/problems/customer-placing-the-largest-number-of-orders/) | mysql | [View Solution](./LeetCode/Easy/586-customer-placing-the-largest-number-of-orders) |
 | LeetCode | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | java | [View Solution](./LeetCode/Unknown/daily-temperatures) |
 | LeetCode | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | java | [View Solution](./LeetCode/Medium/237-delete-node-in-a-linked-list) |
@@ -143,7 +144,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | LeetCode | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | java | [View Solution](./LeetCode/Easy/141-linked-list-cycle) |
 | LeetCode | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | java | [View Solution](./LeetCode/Medium/142-linked-list-cycle-ii) |
 | LeetCode | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | java | [View Solution](./LeetCode/Easy/14-longest-common-prefix) |
-| LeetCode | [Longest Fibonacci Subarray](https://leetcode.com/problems/longest-fibonacci-subarray/) | java | [View Solution](./LeetCode/Unknown/longest-fibonacci-subarray) |
+| LeetCode | [Longest Fibonacci Subarray](https://leetcode.com/problems/longest-fibonacci-subarray/) | java | [View Solution](./LeetCode/Medium/3708-longest-fibonacci-subarray) |
 | LeetCode | [Longest Subsequence With Non-Zero Bitwise XOR](https://leetcode.com/problems/longest-subsequence-with-non-zero-bitwise-xor/) | java | [View Solution](./LeetCode/Medium/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | LeetCode | [Majority Element](https://leetcode.com/problems/majority-element/) | java | [View Solution](./LeetCode/Easy/169-majority-element) |
 | LeetCode | [Matrix Similarity After Cyclic Shifts](https://leetcode.com/problems/matrix-similarity-after-cyclic-shifts/) | java | [View Solution](./LeetCode/Easy/2946-matrix-similarity-after-cyclic-shifts) |
@@ -152,14 +153,15 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | LeetCode | [Maximum Length of a Concatenated String with Unique Characters](https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/) | java | [View Solution](./LeetCode/Medium/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | LeetCode | [Maximum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/) | java | [View Solution](./LeetCode/Easy/1614-maximum-nesting-depth-of-the-parentheses) |
 | LeetCode | [Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons/) | java | [View Solution](./LeetCode/Easy/1189-maximum-number-of-balloons) |
+| LeetCode | [Maximum Number of Vowels in a Substring of Given Length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/) | java | [View Solution](./LeetCode/Medium/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | LeetCode | [Maximum Number That Sum of the Prices Is Less Than or Equal to K](https://leetcode.com/problems/maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k/) | java | [View Solution](./LeetCode/Medium/3007-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k) |
 | LeetCode | [Maximum Score From Removing Substrings](https://leetcode.com/problems/maximum-score-from-removing-substrings/) | java | [View Solution](./LeetCode/Unknown/maximum-score-from-removing-substrings) |
-| LeetCode | [Maximum Twin Sum of a Linked List](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/) | java | [View Solution](./LeetCode/Unknown/maximum-twin-sum-of-a-linked-list) |
+| LeetCode | [Maximum Twin Sum of a Linked List](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/) | java | [View Solution](./LeetCode/Medium/2130-maximum-twin-sum-of-a-linked-list) |
 | LeetCode | [Maximum Valid Pair Sum](https://leetcode.com/problems/maximum-valid-pair-sum/) | java | [View Solution](./LeetCode/Medium/3979-maximum-valid-pair-sum) |
 | LeetCode | [Maximum XOR for Each Query](https://leetcode.com/problems/maximum-xor-for-each-query/) | java | [View Solution](./LeetCode/Unknown/maximum-xor-for-each-query) |
 | LeetCode | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | java | [View Solution](./LeetCode/Unknown/median-of-two-sorted-arrays) |
 | Codeforces | [Merging the Sets](https://codeforces.com/contest/2146/problem/B) | Java 8 | [View Solution](./Codeforces/2146/B) |
-| LeetCode | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | java | [View Solution](./LeetCode/Unknown/middle-of-the-linked-list) |
+| LeetCode | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | java | [View Solution](./LeetCode/Easy/876-middle-of-the-linked-list) |
 | LeetCode | [Minimize XOR](https://leetcode.com/problems/minimize-xor/) | java | [View Solution](./LeetCode/Medium/2429-minimize-xor) |
 | LeetCode | [Minimum Absolute Difference Between Two Values](https://leetcode.com/problems/minimum-absolute-difference-between-two-values/) | java | [View Solution](./LeetCode/Easy/3880-minimum-absolute-difference-between-two-values) |
 | LeetCode | [Minimum Absolute Distance Between Mirror Pairs](https://leetcode.com/problems/minimum-absolute-distance-between-mirror-pairs/) | java | [View Solution](./LeetCode/Unknown/minimum-absolute-distance-between-mirror-pairs) |
@@ -183,7 +185,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | LeetCode | [Minimum Operations to Transform Binary String](https://leetcode.com/problems/minimum-operations-to-transform-binary-string/) | python3 | [View Solution](./LeetCode/Medium/3980-minimum-operations-to-transform-binary-string) |
 | LeetCode | [Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/) | java | [View Solution](./LeetCode/Unknown/minimum-remove-to-make-valid-parentheses) |
 | LeetCode | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | java | [View Solution](./LeetCode/Medium/209-minimum-size-subarray-sum) |
-| LeetCode | [Minimum Subarray Length With Distinct Sum At Least K](https://leetcode.com/problems/minimum-subarray-length-with-distinct-sum-at-least-k/) | java | [View Solution](./LeetCode/Unknown/minimum-subarray-length-with-distinct-sum-at-least-k) |
+| LeetCode | [Minimum Subarray Length With Distinct Sum At Least K](https://leetcode.com/problems/minimum-subarray-length-with-distinct-sum-at-least-k/) | java | [View Solution](./LeetCode/Medium/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
 | LeetCode | [Minimum Swaps to Move Zeros to End](https://leetcode.com/problems/minimum-swaps-to-move-zeros-to-end/) | java | [View Solution](./LeetCode/Unknown/minimum-swaps-to-move-zeros-to-end) |
 | LeetCode | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | java | [View Solution](./LeetCode/Unknown/minimum-window-substring) |
 | LeetCode | [Mirror Distance of an Integer](https://leetcode.com/problems/mirror-distance-of-an-integer/) | java | [View Solution](./LeetCode/Easy/3783-mirror-distance-of-an-integer) |
@@ -199,10 +201,10 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | LeetCode | [Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/) | java | [View Solution](./LeetCode/Medium/131-palindrome-partitioning) |
 | LeetCode | [Parsing A Boolean Expression](https://leetcode.com/problems/parsing-a-boolean-expression/) | java | [View Solution](./LeetCode/Hard/1106-parsing-a-boolean-expression) |
 | LeetCode | [Perfect Number](https://leetcode.com/problems/perfect-number/) | java | [View Solution](./LeetCode/Easy/507-perfect-number) |
-| LeetCode | [Plus One](https://leetcode.com/problems/plus-one/) | java | [View Solution](./LeetCode/Unknown/plus-one) |
+| LeetCode | [Plus One](https://leetcode.com/problems/plus-one/) | java | [View Solution](./LeetCode/Easy/66-plus-one) |
 | LeetCode | [Pow(x, n)](https://leetcode.com/problems/powx-n/) | java | [View Solution](./LeetCode/Unknown/powx-n) |
-| LeetCode | [Power of Two](https://leetcode.com/problems/power-of-two/) | java | [View Solution](./LeetCode/Unknown/power-of-two) |
-| LeetCode | [Process String with Special Operations I](https://leetcode.com/problems/process-string-with-special-operations-i/) | java | [View Solution](./LeetCode/Unknown/process-string-with-special-operations-i) |
+| LeetCode | [Power of Two](https://leetcode.com/problems/power-of-two/) | java | [View Solution](./LeetCode/Easy/231-power-of-two) |
+| LeetCode | [Process String with Special Operations I](https://leetcode.com/problems/process-string-with-special-operations-i/) | java | [View Solution](./LeetCode/Medium/3612-process-string-with-special-operations-i) |
 | LeetCode | [Process String with Special Operations II](https://leetcode.com/problems/process-string-with-special-operations-ii/) | java | [View Solution](./LeetCode/Hard/3614-process-string-with-special-operations-ii) |
 | LeetCode | [Product Sales Analysis I](https://leetcode.com/problems/product-sales-analysis-i/) | mysql | [View Solution](./LeetCode/Unknown/product-sales-analysis-i) |
 | LeetCode | [Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/) | mysql | [View Solution](./LeetCode/Unknown/recyclable-and-low-fat-products) |
@@ -212,10 +214,10 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | LeetCode | [Remove Element](https://leetcode.com/problems/remove-element/) | java | [View Solution](./LeetCode/Easy/27-remove-element) |
 | LeetCode | [Remove K Digits](https://leetcode.com/problems/remove-k-digits/) | java | [View Solution](./LeetCode/Medium/402-remove-k-digits) |
 | LeetCode | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | java | [View Solution](./LeetCode/Medium/19-remove-nth-node-from-end-of-list) |
-| LeetCode | [Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/) | java | [View Solution](./LeetCode/Unknown/remove-outermost-parentheses) |
+| LeetCode | [Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/) | java | [View Solution](./LeetCode/Easy/1021-remove-outermost-parentheses) |
 | LeetCode | [Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/) | java | [View Solution](./LeetCode/Medium/2390-removing-stars-from-a-string) |
 | LeetCode | [Replace Employee ID With The Unique Identifier](https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier/) | mysql | [View Solution](./LeetCode/Unknown/replace-employee-id-with-the-unique-identifier) |
-| LeetCode | [Reverse Degree of a String](https://leetcode.com/problems/reverse-degree-of-a-string/) | java | [View Solution](./LeetCode/Unknown/reverse-degree-of-a-string) |
+| LeetCode | [Reverse Degree of a String](https://leetcode.com/problems/reverse-degree-of-a-string/) | java | [View Solution](./LeetCode/Easy/3498-reverse-degree-of-a-string) |
 | LeetCode | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | java | [View Solution](./LeetCode/Easy/206-reverse-linked-list) |
 | LeetCode | [Reverse String](https://leetcode.com/problems/reverse-string/) | java | [View Solution](./LeetCode/Easy/344-reverse-string) |
 | LeetCode | [Reverse String II](https://leetcode.com/problems/reverse-string-ii/) | java | [View Solution](./LeetCode/Easy/541-reverse-string-ii) |
@@ -228,7 +230,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | LeetCode | [Rotate String](https://leetcode.com/problems/rotate-string/) | java | [View Solution](./LeetCode/Easy/796-rotate-string) |
 | LeetCode | [Row With Maximum Ones](https://leetcode.com/problems/row-with-maximum-ones/) | java | [View Solution](./LeetCode/Easy/2643-row-with-maximum-ones) |
 | LeetCode | [Score After Flipping Matrix](https://leetcode.com/problems/score-after-flipping-matrix/) | java | [View Solution](./LeetCode/Medium/861-score-after-flipping-matrix) |
-| LeetCode | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | java | [View Solution](./LeetCode/Unknown/search-a-2d-matrix) |
+| LeetCode | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | java | [View Solution](./LeetCode/Medium/74-search-a-2d-matrix) |
 | LeetCode | [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/) | java | [View Solution](./LeetCode/Medium/240-search-a-2d-matrix-ii) |
 | LeetCode | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | java | [View Solution](./LeetCode/Medium/33-search-in-rotated-sorted-array) |
 | LeetCode | [Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) | java | [View Solution](./LeetCode/Medium/81-search-in-rotated-sorted-array-ii) |
@@ -236,21 +238,21 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | LeetCode | [Second Highest Salary](https://leetcode.com/problems/second-highest-salary/) | mysql | [View Solution](./LeetCode/Medium/176-second-highest-salary) |
 | LeetCode | [Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/) | java | [View Solution](./LeetCode/Easy/728-self-dividing-numbers) |
 | LeetCode | [Shortest Subarray With OR at Least K II](https://leetcode.com/problems/shortest-subarray-with-or-at-least-k-ii/) | java | [View Solution](./LeetCode/Medium/3097-shortest-subarray-with-or-at-least-k-ii) |
-| LeetCode | [Simplify Path](https://leetcode.com/problems/simplify-path/) | java | [View Solution](./LeetCode/Unknown/simplify-path) |
+| LeetCode | [Simplify Path](https://leetcode.com/problems/simplify-path/) | java | [View Solution](./LeetCode/Medium/71-simplify-path) |
 | LeetCode | [Single Number](https://leetcode.com/problems/single-number/) | java | [View Solution](./LeetCode/Unknown/single-number) |
-| LeetCode | [Single Number II](https://leetcode.com/problems/single-number-ii/) | java | [View Solution](./LeetCode/Unknown/single-number-ii) |
+| LeetCode | [Single Number II](https://leetcode.com/problems/single-number-ii/) | java | [View Solution](./LeetCode/Medium/137-single-number-ii) |
 | LeetCode | [Single Number III](https://leetcode.com/problems/single-number-iii/) | java | [View Solution](./LeetCode/Medium/260-single-number-iii) |
 | LeetCode | [Sort an Array](https://leetcode.com/problems/sort-an-array/) | java | [View Solution](./LeetCode/Unknown/sort-an-array) |
 | LeetCode | [Sort Colors](https://leetcode.com/problems/sort-colors/) | java | [View Solution](./LeetCode/Medium/75-sort-colors) |
 | LeetCode | [Sort List](https://leetcode.com/problems/sort-list/) | java | [View Solution](./LeetCode/Unknown/sort-list) |
 | LeetCode | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) | java | [View Solution](./LeetCode/Unknown/sqrtx) |
 | LeetCode | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | java | [View Solution](./LeetCode/Unknown/subarray-sum-equals-k) |
-| LeetCode | [Subsequence After One Replacement](https://leetcode.com/problems/subsequence-after-one-replacement/) | java | [View Solution](./LeetCode/Unknown/subsequence-after-one-replacement) |
+| LeetCode | [Subsequence After One Replacement](https://leetcode.com/problems/subsequence-after-one-replacement/) | java | [View Solution](./LeetCode/Medium/3983-subsequence-after-one-replacement) |
 | LeetCode | [Subsets](https://leetcode.com/problems/subsets/) | java | [View Solution](./LeetCode/Medium/78-subsets) |
 | LeetCode | [Subsets II](https://leetcode.com/problems/subsets-ii/) | java | [View Solution](./LeetCode/Unknown/subsets-ii) |
 | LeetCode | [Sum of Integers with Maximum Digit Range](https://leetcode.com/problems/sum-of-integers-with-maximum-digit-range/) | java | [View Solution](./LeetCode/Unknown/sum-of-integers-with-maximum-digit-range) |
 | LeetCode | [Sum of Subarray Minimums](https://leetcode.com/problems/sum-of-subarray-minimums/) | java | [View Solution](./LeetCode/Medium/907-sum-of-subarray-minimums) |
-| LeetCode | [Super Pow](https://leetcode.com/problems/super-pow/) | java | [View Solution](./LeetCode/Unknown/super-pow) |
+| LeetCode | [Super Pow](https://leetcode.com/problems/super-pow/) | java | [View Solution](./LeetCode/Medium/372-super-pow) |
 | LeetCode | [Traffic Signal Color](https://leetcode.com/problems/traffic-signal-color/) | java | [View Solution](./LeetCode/Easy/3894-traffic-signal-color) |
 | LeetCode | [Two Furthest Houses With Different Colors](https://leetcode.com/problems/two-furthest-houses-with-different-colors/) | java | [View Solution](./LeetCode/Easy/2078-two-furthest-houses-with-different-colors) |
 | LeetCode | [Two Sum](https://leetcode.com/problems/two-sum/) | java | [View Solution](./LeetCode/Unknown/two-sum) |
